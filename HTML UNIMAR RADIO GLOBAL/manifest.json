@@ -1,7 +1,7 @@
 {
-  "name": "Jailson Webradio",
-  "short_name": "Jailson Webradio",
-  "description": "Música sem Gospel sem parar!",
+  "name": "Unimar Radio Global",
+  "short_name": "Unimar Radio Global",
+  "description": "La radio como a ti te gusta",
   "icons": [
     {
       "src": "assets/jailson_cover.png",
@@ -22,7 +22,7 @@
   "display_override": [
     "standalone"
   ],
-  "lang": "pt-BR", 
+  "lang": "es-VE", 
   "dir": "ltr",
   "categories": [
     "music"
